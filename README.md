@@ -56,7 +56,7 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/tononjacopo/tesla.git
-   
+    ```
 ## 📩 Contact
 
 - [🌐 Portfolio](https://tononjacopo.com)

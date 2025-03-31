@@ -61,10 +61,11 @@ To run this project locally, follow these steps:
 
 - [🌐 Portfolio](https://tononjacopo.com)
 - [🔗 LinkedIn](https://it.linkedin.com/in/tononjacopo)
+- [💡 LeetCode](https://leetcode.com/tononjacopo)
 - [❌ X](https://x.com/devtononjacopo)
 - [🎨 Dribbble](https://dribbble.com/tononjacopo)
 
-📩 **Email**: [your.email@example.com](mailto:your.email@example.com)
+📩 **Email**: [info@tononjacopo.com](mailto:info@tononjacopo.com)
 
 ## 📝 License
 

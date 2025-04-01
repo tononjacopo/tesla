@@ -19,17 +19,29 @@ You can view the live demo of the landing page here: [Tesla Roadster Landing Pag
 
 ## 📸 Screenshots
 
-### 🔹 Homepage
+### 🔹 Above the fold
 
-![Homepage](assets/images/homepage.png)
+![Homepage](https://github.com/tononjacopo/tesla/blob/caa1d5e0b316265bb8a893fa48ce2ac3d4ab816c/screenshot/above%20the%20fold.png)
 
 *Main screen of the landing page.*
 
-### 🔹 Sidebar Navigation
+### 🔹 Under the fold
 
-![Sidebar](assets/images/sidebar.png)
+![Sidebar](https://github.com/tononjacopo/tesla/blob/caa1d5e0b316265bb8a893fa48ce2ac3d4ab816c/screenshot/2nd.png)
 
-*Interactive sidebar for intuitive navigation.*
+*Scroll animation.*
+
+### 🔹 Extra section for more info
+
+![Sidebar](https://github.com/tononjacopo/tesla/blob/caa1d5e0b316265bb8a893fa48ce2ac3d4ab816c/screenshot/3rd.png)
+
+*video of the car playing for aestetic.*
+
+### 🔹 Footer
+
+![Sidebar](https://github.com/tononjacopo/tesla/blob/caa1d5e0b316265bb8a893fa48ce2ac3d4ab816c/screenshot/footer.png)
+
+*Footer.*
 
 ## 🗁 Project Structure
 
